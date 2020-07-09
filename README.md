@@ -4,6 +4,7 @@ Sysadmin -> Consultant -> Architect -> Systems Engineer
 
 - 💻 Lifelong tinkerer
 - 🌩️ Opensource & 'cloud native' technologies
+- 🐧 Linux
 - 🔍 Explorer
 - 📦 [underkube.com](https://underkube.com) blogger (I should write more often 🙃)
 - 🎩 Senior SysEng at Red Hat

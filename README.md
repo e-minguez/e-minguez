@@ -7,7 +7,7 @@ Sysadmin -> Consultant -> Architect -> Systems Engineer
 - 🐧 Linux
 - 🔍 Explorer
 - 📦 [underkube.com](https://underkube.com) blogger (I should write more often 🙃)
-- 🎩 Senior SysEng at Red Hat
+- 🎩 Principal SysEng at Red Hat
 - 🐦 I use [Twitter](https://twitter.com/minWi) as my bookmarks
 - 🎮 Gamer
 - 🏋️ Crossfitter

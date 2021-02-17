@@ -22,3 +22,8 @@ You can find me as 'eminguez', 'e-minguez' or 'minWi' depending on the name avai
 [![Edu's github stats](https://github-readme-stats.vercel.app/api?username=e-minguez&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=e-minguez&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![](https://raw.githubusercontent.com/e-minguez/e-minguez/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://raw.githubusercontent.com/e-minguez/e-minguez/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/e-minguez/e-minguez/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)

@@ -1,4 +1,4 @@
-### Hola!, Edu Minguez over here 👋
+### Hola! 👋
 
 Sysadmin -> Consultant -> Architect -> Systems Engineer
 

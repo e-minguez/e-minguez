@@ -1,13 +1,13 @@
-### Hola! 👋
+### Hola!
 
-Sysadmin -> Consultant -> Architect -> Systems Engineer
+Sysadmin -> Consultant -> Architect -> Systems Engineer -> Technical Marketing
 
 - 💻 Lifelong tinkerer
 - 🌩️ Opensource & 'cloud native' technologies
 - 🐧 Linux
 - 🔍 Explorer
 - 📦 [underkube.com](https://underkube.com) blogger (I should write more often 🙃)
-- 🎩 Principal SysEng at Red Hat
+- 🎩 Technical Marketing Manager at Sysdig
 - 🐦 I use [Twitter](https://twitter.com/minWi) as my bookmarks
 - 🎮 Gamer
 - 🏋️ Crossfitter

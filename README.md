@@ -11,6 +11,7 @@ Sysadmin -> Consultant -> Architect -> Systems Engineer -> Technical Marketing
 - 🐦 I use [Twitter](https://twitter.com/minWi) as my bookmarks
 - 🎮 Gamer
 - 🏋️ Crossfitter
+- 👶 Dad!
 
 You can find me as 'eminguez', 'e-minguez' or 'minWi' depending on the name availability of the site 😅
 

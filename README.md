@@ -9,7 +9,7 @@ Sysadmin -> Consultant -> Architect -> Systems Engineer -> Technical Marketing
 - 📦 [underkube.com](https://underkube.com) blogger (I should write more often 🙃)
 - 🎩 Technical Marketing Manager at Sysdig
 - 🐦 I use [Twitter](https://twitter.com/minWi) as my bookmarks
-- 🐘 I'm also on [@minWi@tty0.social](https://tty0.social/@minWi) as well
+- 🐘 I'm also <a rel="me" href="https://tty0.social/@minWi">@minWi@tty0.social</a> on Mastodon
 - 🎮 Gamer
 - 🏋️ Crossfitter
 - 👶 Dad!

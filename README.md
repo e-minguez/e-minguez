@@ -12,6 +12,7 @@ Sysadmin -> Consultant -> Architect -> Systems Engineer -> Technical Marketing
 - 🐘 I'm also <a rel="me" href="https://tty0.social/@minWi">@minWi@tty0.social</a> on Mastodon
 - 🎮 Gamer
 - 🏋️ Crossfitter
+- 👫 Husband
 - 👶 Dad!
 
 You can find me as 'eminguez', 'e-minguez' or 'minWi' depending on the name availability of the site 😅

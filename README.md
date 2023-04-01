@@ -1,6 +1,6 @@
 ### Hola!
 
-Sysadmin -> Consultant -> Architect -> Systems Engineer -> Technical Marketing
+Sysadmin -> Consultant -> Architect -> Systems Engineer -> Technical Marketing -> Edge Container Engineer
 
 - 💻 Lifelong tinkerer
 - 🌩️ Opensource & 'cloud native' technologies

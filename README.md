@@ -7,7 +7,7 @@ Sysadmin -> Consultant -> Architect -> Systems Engineer -> Technical Marketing -
 - 🐧 Linux
 - 🔍 Explorer
 - 📦 [underkube.com](https://underkube.com) blogger (I should write more often 🙃)
-- 🎩 Technical Marketing Manager at Sysdig
+- 🎩 Sr. Edge Container Engineer at SUSE
 - 🐦 I use [Twitter](https://twitter.com/minWi) as my bookmarks
 - 🐘 I'm also <a rel="me" href="https://tty0.social/@minWi">@minWi@tty0.social</a> on Mastodon
 - 🎮 Gamer

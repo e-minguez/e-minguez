@@ -9,7 +9,7 @@ Sysadmin -> Consultant -> Architect -> Systems Engineer -> Technical Marketing -
 - 📦 [www.underkube.com](https://www.underkube.com) blogger (I should write more often 🙃)
 - 🎩 Senior Manager L3 Engineering at SUSE
 - 🐦 I use [Twitter](https://twitter.com/minWi) as my bookmarks
-- 🐘 I'm also <a rel="me" href="https://tty0.social/@minWi">@minWi@tty0.social</a> on Mastodon
+- 🐘 I'm also [@minWi@tty0.social](https://tty0.social/@minWi) on Mastodon
 - 🎮 Gamer
 - 🏋️ Crossfitter
 - 👫 Husband

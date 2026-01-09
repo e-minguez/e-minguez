@@ -1,32 +1,20 @@
 ### Hola!
 
-Sysadmin -> Consultant -> Architect -> Systems Engineer -> Technical Marketing -> Edge Container Engineer
+Sysadmin -> Consultant -> Architect -> Systems Engineer -> Technical Marketing -> Edge Container Engineer -> Manager
 
 - 💻 Lifelong tinkerer
 - 🌩️ Opensource & 'cloud native' technologies
 - 🐧 Linux
 - 🔍 Explorer
-- 📦 [underkube.com](https://underkube.com) blogger (I should write more often 🙃)
-- 🎩 Sr. Edge Container Engineer at SUSE
+- 📦 [www.underkube.com](https://www.underkube.com) blogger (I should write more often 🙃)
+- 🎩 Senior Manager L3 Engineering at SUSE
 - 🐦 I use [Twitter](https://twitter.com/minWi) as my bookmarks
 - 🐘 I'm also <a rel="me" href="https://tty0.social/@minWi">@minWi@tty0.social</a> on Mastodon
 - 🎮 Gamer
 - 🏋️ Crossfitter
 - 👫 Husband
-- 👶 Dad!
+- 👶 2 x dad!
 
 You can find me as 'eminguez', 'e-minguez' or 'minWi' depending on the name availability of the site 😅
 
-[Site](https://www.eduardominguez.es/) • [Twitter](https://twitter.com/minWi) • [Linkedin](https://www.linkedin.com/in/eminguez/)
-
----
-![](https://komarev.com/ghpvc/?username=e-minguez&color=lightgrey&style=plastic)
-
-[![Edu's github stats](https://github-readme-stats.vercel.app/api?username=e-minguez&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=e-minguez&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![](https://raw.githubusercontent.com/e-minguez/e-minguez/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[![](https://raw.githubusercontent.com/e-minguez/e-minguez/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/e-minguez/e-minguez/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[Site](https://www.eduardominguez.es/) • [Blog](https://www.underkube.com) • [Twitter](https://twitter.com/minWi) • [Linkedin](https://www.linkedin.com/in/eminguez/)
